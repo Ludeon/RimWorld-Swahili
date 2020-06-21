@@ -47,16 +47,16 @@
   <NeedWardenDesc>Uko na mfungwa, lakini huna mkoloni aliyeandikwa kama mlinzi wa jela.\n\nAndika mkoloni kama mlinzi wa jela.</NeedWardenDesc>
 
   <!-- EN: Low food -->
-  <LowFood>Wenig Nahrung</LowFood>
+  <LowFood>Chakula ni kidogo</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>Du hast gefährlich wenig Nahrung auf Lager!\n\nMit den Nahrungsmöglichkeiten im Lager kannst du den Ernährungsbalken {0}-mal komplett füllen. Aktuell sind {1} Leute (Kolonisten oder Gefangene) auf Nahrung angewiesen. Die Nahrung reicht noch für {2} Tage.\n\nNahrung kann durch Anbauen von Pflanzen, Kaufen, Suchen oder Jagen von Tieren erworben werden.</LowFoodDesc>
+  <LowFoodDesc>Chakula chako ni kidogo sana!\n\nVyakula vilivyo kwenye hifadhi: {0}\n    Wakoloni na wafungwa wanaolishwa: {1}\n    Vyakula kwenye hifadhi zitatosha siku: {2}\n\nPanda, nunua, tafuta au winda chakula.</LowFoodDesc>
 
   <!-- EN: Low medicine -->
-  <LowMedicine>Wenig Medizin</LowMedicine>
+  <LowMedicine>Dawa ni kidogo</LowMedicine>
   <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
-  <LowMedicineDesc>Du hast nur noch {0}x Medizin im Lager.\n\nKaufe Medizin von Händlern.</LowMedicineDesc>
+  <LowMedicineDesc>Uko na dawa {0} kwenye hifadhi.\n\nNunua madawa kutoka kwa wauzaji.</LowMedicineDesc>
   <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
-  <NoMedicineDesc>Du hast keine Medizin mehr im Lager.\n\nKaufe Medizin von Händlern.</NoMedicineDesc>
+  <NoMedicineDesc>Huna madawa yoyote kwenye hifadhi.\n\nNunua madawa kutoka kwa wauzaji.</NoMedicineDesc>
   
   <!-- EN: Need colonist beds -->
   <NeedColonistBeds>Betten benötigt</NeedColonistBeds>
