@@ -3,72 +3,72 @@
 
   <!-- WITab titles -->
   <!-- EN: Terrain -->
-  <TabTerrain>Gelände</TabTerrain>
+  <TabTerrain>Ardhi</TabTerrain>
   <!-- EN: Planet -->
-  <TabPlanet>Planet</TabPlanet>
+  <TabPlanet>Sayari</TabPlanet>
   <!-- EN: Social -->
-  <TabCaravanSocial>Sozial</TabCaravanSocial>
+  <TabCaravanSocial>Jamii</TabCaravanSocial>
   <!-- EN: Health -->
-  <TabCaravanHealth>Gesundh.</TabCaravanHealth>
+  <TabCaravanHealth>Afya</TabCaravanHealth>
   <!-- EN: Needs -->
-  <TabCaravanNeeds>Bedürfnis</TabCaravanNeeds>
+  <TabCaravanNeeds>Mahitaji</TabCaravanNeeds>
   <!-- EN: Gear -->
-  <TabCaravanGear>Ausrüstung</TabCaravanGear>
+  <TabCaravanGear>Mizigo</TabCaravanGear>
   <!-- EN: Items -->
-  <TabCaravanItems>Waren</TabCaravanItems>
+  <TabCaravanItems>Vitu</TabCaravanItems>
   
   <!-- Misc -->
   <!-- EN: Abandon {{0}}x {0} -->
-  <AbandonSliderText>Abwerfen {{0}}x {0}</AbandonSliderText>
+  <AbandonSliderText>Wacha {{0}}x {0}</AbandonSliderText>
   <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>Willst du {0} wirklich abwerfen?\n\nAbgeworfene Gegenstände verschwinden und sind für immer verloren.</ConfirmAbandonItemDialog>
+  <ConfirmAbandonItemDialog>Una uhakika unataka kuacha {0}?\n\nVitu zilizoachwa hupotea kabisa na haziwezi rudishwa.</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
-  <AbandonTip>Abwerfen</AbandonTip>
+  <AbandonTip>Wacha</AbandonTip>
   <!-- EN: Banish -->
-  <BanishTip>Verbannen</BanishTip>
+  <BanishTip>Fukuza</BanishTip>
   <!-- EN: Abandon specific count -->
-  <AbandonSpecificCountTip>Wirf eine bestimmte Anzahl ab</AbandonSpecificCountTip>
+  <AbandonSpecificCountTip>Wacha kiwango fulani</AbandonSpecificCountTip>
   <!-- EN: Abandon (all) -->
-  <AbandonAllTip>Abwerfen (alles)</AbandonAllTip>
+  <AbandonAllTip>Wacha (zote)</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
-  <AbandonItemTipExtraText>Abgeworfene Gegenstände verschwinden und sind für immer verloren.</AbandonItemTipExtraText>
+  <AbandonItemTipExtraText>Vitu zilizoachwa hupotea kabisa na haziwezi rudishwa.</AbandonItemTipExtraText>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <BanishTipWillDie>{1_labelShort} wird höchstwahrscheinlich sterben.</BanishTipWillDie>
+  <BanishTipWillDie>Kuna uwezekano mkubwa {1_labelShort} atakufa.</BanishTipWillDie>
   
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->
-  <CaravanColonists>Kolonisten</CaravanColonists>
+  <CaravanColonists>Wakoloni</CaravanColonists>
   <!-- EN: Prisoners and animals -->
-  <CaravanPrisonersAndAnimals>Gefangene und Tiere</CaravanPrisonersAndAnimals>
+  <CaravanPrisonersAndAnimals>Wafungwa na wanyama</CaravanPrisonersAndAnimals>
   <!-- EN: Inventory -->
-  <CaravanItems>Inventar</CaravanItems>
+  <CaravanItems>Mizigo</CaravanItems>
   <!-- EN: Click to open a tab with more details. -->
-  <OpenSpecificTabButtonTip>Anklicken, um einen Tab mit genaueren Angaben zu öffnen.</OpenSpecificTabButtonTip>
+  <OpenSpecificTabButtonTip>Bonyeza kufungua ukurasa wenye maelezo zaidi.</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
-  <CaravanPrisoners>Gefangene</CaravanPrisoners>
+  <CaravanPrisoners>Wafungwa</CaravanPrisoners>
   <!-- EN: Equippable items -->
-  <CaravanWeaponsAndApparel>Ausrüstbare Gegenstände</CaravanWeaponsAndApparel>
+  <CaravanWeaponsAndApparel>Vitu ambazo zinaweza kutumika</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
-  <NoneCapable>Niemand fähig</NoneCapable>
+  <NoneCapable>Hakuna anayeweza</NoneCapable>
   <!-- EN: Caravan not moving -->
-  <GainingJoyBecauseCaravanNotMoving>Karawane rastet</GainingJoyBecauseCaravanNotMoving>
+  <GainingJoyBecauseCaravanNotMoving>Msafara hausongi</GainingJoyBecauseCaravanNotMoving>
   
   <!-- Caravan gear -->
   <!-- EN: Drag to rearrange. -->
-  <DragToRearrange>Ziehen zum Umsortieren.</DragToRearrange>
+  <DragToRearrange>Kokota ili kubadili orodha.</DragToRearrange>
 
   <!-- Caravan items -->
   <!-- EN: Assign drug policies -->
-  <AssignDrugPolicies>Drogenrichtlinien zuweisen</AssignDrugPolicies>
+  <AssignDrugPolicies>Amrisha mikakati ya mihadarati</AssignDrugPolicies>
 
   <!-- Caravan health -->
   <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
-  <BeCarriedIfSickTip>Ob diese Person / dieses Tier von anderen Mitgliedern der Karawane getragen werden soll, wenn sie/es krank ist.\n\nGetragene Karawanen-Mitglieder können sich erholen, auch wenn die Karawane unterwegs ist, aber sie verlangsamen sie.</BeCarriedIfSickTip>
+  <BeCarriedIfSickTip>Kama mtu au mnyama huyu abebwe na wenzake akigonjeka.\n\nAliyebebwa hupumzika hata msafara unaposonga, lakini hupunguza kasi ya msafara.</BeCarriedIfSickTip>
   
   <!-- Planet -->
   <!-- EN: Seed -->
-  <PlanetSeed>Seed</PlanetSeed>
+  <PlanetSeed>Mbegu</PlanetSeed>
   <!-- EN: Coverage -->
-  <PlanetCoverageShort>Abdeckung</PlanetCoverageShort>
+  <PlanetCoverageShort>Ukubwa</PlanetCoverageShort>
 
 </LanguageData>

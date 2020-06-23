@@ -2,114 +2,114 @@
 <LanguageData>
   
   <!-- EN: Cancel -->
-  <DesignatorCancel>Abbrechen</DesignatorCancel>
+  <DesignatorCancel>Wacha</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
-  <DesignatorCancelDesc>Bricht das Bauen, Abbauen, Tragen, Ernten und alle anderen Aufgaben ab.</DesignatorCancelDesc>
+  <DesignatorCancelDesc>Futa mpango wa jengo, uchimbaji, uchukuzi, uvunaji na mipango yote mengine.</DesignatorCancelDesc>
 
   <!-- EN: Cut plants -->
-  <DesignatorCutPlants>Pflanzen entfernen</DesignatorCutPlants>
+  <DesignatorCutPlants>Kata mimea</DesignatorCutPlants>
   <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
-  <DesignatorCutPlantsDesc>Markiert Pflanzen, die entfernt werden sollen. Die Pflanze wird komplett entfernt. Reife Nahrung bzw. Ressourcen werden hierbei geerntet.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>Ashiria mimea ikatwe kabisa. Mmea utakatwa kabisa na mavuno yoyote kuvunwa.</DesignatorCutPlantsDesc>
 
   <!-- EN: Deconstruct -->
-  <DesignatorDeconstruct>Abreißen</DesignatorDeconstruct>
+  <DesignatorDeconstruct>Bomoa</DesignatorDeconstruct>
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
-  <DesignatorDeconstructDesc>Markiert Objekte, die abgerissen werden sollen. Du erhältst einen Teil der Ressourcen zurück.</DesignatorDeconstructDesc>
+  <DesignatorDeconstructDesc>Bomoa kitu hiki na uchukue baadhi ya rasilmali zake.</DesignatorDeconstructDesc>
 
   <!-- EN: Uninstall -->
-  <DesignatorUninstall>Deinstallieren</DesignatorUninstall>
+  <DesignatorUninstall>Toanisha</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
-  <DesignatorUninstallDesc>Markiert Objekte, die demontiert werden sollen, um sie zu versetzen oder zu verkaufen.</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>Toanisha kitu hiki ili kiweze kusongezwa, kuuzwa au kuunganishwa mahali kwingine.</DesignatorUninstallDesc>
 
   <!-- EN: Harvest -->
-  <DesignatorHarvest>Ernten</DesignatorHarvest>
+  <DesignatorHarvest>Vuna</DesignatorHarvest>
   <!-- EN: Marks plants to be harvested for their food or other products. -->
-  <DesignatorHarvestDesc>Markiert Pflanzen, die geerntet werden sollen, um deren Nahrung oder andere Produkte zu bekommen.</DesignatorHarvestDesc>
+  <DesignatorHarvestDesc>Ashiria mimea ya kuvunwa kwa chakula au bidhaa zingine.</DesignatorHarvestDesc>
 
   <!-- EN: Chop wood -->
-  <DesignatorHarvestWood>Holz hacken</DesignatorHarvestWood>
+  <DesignatorHarvestWood>Kata kuni</DesignatorHarvestWood>
   <!-- EN: Marks trees to be chopped down for wood. -->
-  <DesignatorHarvestWoodDesc>Markiert Bäume, die gefällt werden sollen, um deren Holz zu bekommen.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWoodDesc>Ashiria miti ya kukatwa kwa kuni.</DesignatorHarvestWoodDesc>
 
   <!-- EN: Haul things -->
-  <DesignatorHaulThings>Objekte wegtragen</DesignatorHaulThings>
+  <DesignatorHaulThings>Beba vitu</DesignatorHaulThings>
   <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
-  <DesignatorHaulThingsDesc>Markiert Felsbrocken und andere Gegenstände, die weggetragen werden sollen, um Gebiete freizulegen. Nicht erforderlich für Gegenstände wie z.B. Nahrung, Leichen usw.</DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>Ashiria mawe au vitu zingine zisafirishwe hadi mahali paliotengewa vitu hizo. Vyakula au maiti sio lazima kuashiria, zitabebwa.</DesignatorHaulThingsDesc>
   <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
-  <MustHaulHaulables>Es können nur Gegenstände markiert werden, die nicht automatisch weggetragen werden (z.B. Felsbrocken).</MustHaulHaulables>
+  <MustHaulHaulables>Unaweza ashiria tu vitu ambazo zinabebeka na haziko kwenye kundi la vitu vinavyobebeka bila kuashiriwa (mfano ni mawe).</MustHaulHaulables>
 
   <!-- EN: Hunt -->
-  <DesignatorHunt>Jagen</DesignatorHunt>
+  <DesignatorHunt>Winda</DesignatorHunt>
   <!-- EN: Mark animals to be hunted by your hunters. -->
-  <DesignatorHuntDesc>Markiere Tiere, die von deinen Jägern gejagt werden sollen.</DesignatorHuntDesc>
+  <DesignatorHuntDesc>Ashiria wanyama wa kuwindwa na wawindaji wako.</DesignatorHuntDesc>
 
   <!-- EN: Mine -->
-  <DesignatorMine>Abbauen</DesignatorMine>
+  <DesignatorMine>Chimba</DesignatorMine>
   <!-- EN: Designate areas of rock to be mined out. -->
-  <DesignatorMineDesc>Markiert Gesteinsfelder, die abgebaut werden sollen.</DesignatorMineDesc>
+  <DesignatorMineDesc>Ashiria maeneo ya mawe ili yachimbwe.</DesignatorMineDesc>
 
   <!-- EN: Smooth surface -->
-  <DesignatorSmoothSurface>Oberfläche glätten</DesignatorSmoothSurface>
+  <DesignatorSmoothSurface>Lainisha sakafu au kuta</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
-  <DesignatorSmoothSurfaceDesc>Markiert raue Böden und Wände, die geglättet werden sollen.</DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothSurfaceDesc>Ashiria kuta au sakafu za kulainishwa.</DesignatorSmoothSurfaceDesc>
 
   <!-- EN: Plan -->
-  <DesignatorPlan>Planen</DesignatorPlan>
+  <DesignatorPlan>Panga</DesignatorPlan>
   <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
-  <DesignatorPlanDesc>Platziert Planungsmarkierungen. Die Markierungen dienen nur dazu, den Ausbau deiner Kolonie zu planen.</DesignatorPlanDesc>
+  <DesignatorPlanDesc>Weka alama za mipango. Alama hizi hazina umuhimu zaidi ya kukusaidia kupanga ujenzi wa baadaye.</DesignatorPlanDesc>
 
   <!-- EN: Remove plans -->
-  <DesignatorPlanRemove>Plan entfernen</DesignatorPlanRemove>
+  <DesignatorPlanRemove>Toa mipango</DesignatorPlanRemove>
   <!-- EN: Remove planning designations. -->
-  <DesignatorPlanRemoveDesc>Entfernt Planungsmarkierungen.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemoveDesc>Toa alama za mipango.</DesignatorPlanRemoveDesc>
 
   <!-- EN: Forbid -->
-  <DesignatorForbid>Verbieten</DesignatorForbid>
+  <DesignatorForbid>Kataza</DesignatorForbid>
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
-  <DesignatorForbidDesc>Markiere Gegenstände als 'verboten'. Kolonisten werden mit diesen Gegenständen nicht interagieren.</DesignatorForbidDesc>
+  <DesignatorForbidDesc>Ashiria vitu zisizokubalika. Wakoloni hawataweza kutumia vitu hivi.</DesignatorForbidDesc>
 
   <!-- EN: Allow -->
-  <DesignatorUnforbid>Erlauben</DesignatorUnforbid>
+  <DesignatorUnforbid>Kubali</DesignatorUnforbid>
   <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
-  <DesignatorUnforbidDesc>Markiere Gegenstände als 'erlaubt'. Kolonisten können mit den entsprechenden Gegenständen interagieren.</DesignatorUnforbidDesc>
+  <DesignatorUnforbidDesc>Ashiria vitu vinavyokubalika. Wakoloni wataweza kutumia vitu hivi.</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
-  <DesignatorAreaHomeExpand>Heimatgebiet erweitern</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpand>Ongezea eneo la nyumbani</DesignatorAreaHomeExpand>
   <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
-  <DesignatorAreaHomeExpandDesc>Nur in diesem Gebiet können Konstruktionen repariert, Böden gesäubert oder Feuer gelöscht werden.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeExpandDesc>Wakoloni watarekebisha majengo, waoshe sakafu na wazime moto kwenye eneo la nyumbani pekee.</DesignatorAreaHomeExpandDesc>
   <!-- EN: Clear home area -->
-  <DesignatorAreaHomeClear>Heimatgebiet verkleinern</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClear>Punguza eneo la nyumbani</DesignatorAreaHomeClear>
   <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
-  <DesignatorAreaHomeClearDesc>Entfernt einen Teil des Heimatgebietes. Kolonisten können hier nicht länger saubermachen, reparieren oder Feuer löschen.</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeClearDesc>Toa eneo kutoka orodha ya maeneo ya nyumbani. Wakoloni hawatarekebisha majengo, hawataosha au kuzima moto kwa eneo hili.</DesignatorAreaHomeClearDesc>
 
   <!-- EN: Build roof area -->
-  <DesignatorAreaBuildRoofExpand>'Dach bauen' erweitern</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpand>Jenga paa</DesignatorAreaBuildRoofExpand>
   <!-- EN: Colonists will build roofs in this area. -->
-  <DesignatorAreaBuildRoofExpandDesc>Kolonisten werden Dächer in diesem Gebiet bauen.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofExpandDesc>Wakoloni watajenga mapaa hapa.</DesignatorAreaBuildRoofExpandDesc>
 
   <!-- EN: Remove roof area -->
-  <DesignatorAreaNoRoofExpand>'Dach abreißen' erweitern</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpand>Toa paa</DesignatorAreaNoRoofExpand>
   <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
-  <DesignatorAreaNoRoofExpandDesc>Kolonisten werden Dächer in diesem Gebiet abreißen (außer überhängendes Gebirge, das nicht abgerissen werden kann).</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpandDesc>Wakoloni watatoa mapaa hapa (isipokuwa mwamba wa mlima, ambao hauwezi kutolewa).</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
-  <DesignatorAreaIgnoreRoofExpand>Dachgebiet verkleinern</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpand>Puuza paa</DesignatorAreaIgnoreRoofExpand>
   <!-- EN: Colonists will ignore roofs in this area. -->
-  <DesignatorAreaIgnoreRoofExpandDesc>Entfernt einen Teil des Gebietes, das zum Bauen oder Abreißen von Dächern markiert ist.</DesignatorAreaIgnoreRoofExpandDesc>
+  <DesignatorAreaIgnoreRoofExpandDesc>Wakoloni hawatazingatia mapaa hapa.</DesignatorAreaIgnoreRoofExpandDesc>
 
   <!-- EN: Expand snow clear area -->
-  <DesignatorAreaSnowClearExpand>'Schnee räumen' erweitern</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpand>Ongeza eneo la kufagia theluji</DesignatorAreaSnowClearExpand>
   <!-- EN: Create a area which colonists will try to keep clear of snow. -->
-  <DesignatorAreaSnowClearExpandDesc>Erstellt ein Gebiet, in welchem die Kolonisten versuchen werden, vorhandenen Schnee zu räumen.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearExpandDesc>Wakoloni watafagia theluji katika eneo hili.</DesignatorAreaSnowClearExpandDesc>
   <!-- EN: Clear snow clear Area -->
-  <DesignatorAreaSnowClearClear>'Schnee räumen' verkleinern</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClear>Toa eneo la kufagia theluji</DesignatorAreaSnowClearClear>
   <!-- EN: Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
-  <DesignatorAreaSnowClearClearDesc>Entfernt ein Gebiet, das zum Schneeräumen markiert ist. Kolonisten werden hier nicht mehr versuchen, den Bereich schneefrei zu halten.</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearClearDesc>Toa eneo kwenye orodha ya maeneo ya kufagia theluji. Wakoloni hawatafagia theluji katika eneo hili.</DesignatorAreaSnowClearClearDesc>
 
   <!-- EN: Expand allowed area -->
-  <DesignatorExpandAreaAllowed>Arbeitsgebiet erweitern</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowed>Ongeza eneo linalokubalika</DesignatorExpandAreaAllowed>
   <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorExpandAreaAllowedDesc>Erweitert ein Arbeitsgebiet.\n\nArbeitsgebiete sind definierte Bereiche, die man Kolonisten zuweisen kann. Kolonisten beschränken ihre Arbeit und Bedürfnisse nur auf dieses Gebiet.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorExpandAreaAllowedDesc>Ongeza eneo linalokubalika.\n\nMaeneo yanayokubalika ni maeneo ambayo wakoloni wanaweza tumwa. Wakoloni hawatakubali kazi au kukimu mahitaji yao nje ya maeneo yanayokubalika.</DesignatorExpandAreaAllowedDesc>
   <!-- EN: Clear allowed area -->
   <DesignatorClearAreaAllowed>Arbeitsgebiet verkleinern</DesignatorClearAreaAllowed>
   <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
