@@ -59,39 +59,39 @@
   <NoMedicineDesc>Huna madawa yoyote kwenye hifadhi.\n\nNunua madawa kutoka kwa wauzaji.</NoMedicineDesc>
   
   <!-- EN: Need colonist beds -->
-  <NeedColonistBeds>Betten benötigt</NeedColonistBeds>
+  <NeedColonistBeds>Wakoloni wanahitaji vitanda.</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedColonistBedsDesc>Es gibt nicht genug Betten für deine Kolonisten. Jemand wird keinen Platz zum Schlafen haben.\n\nBaue entweder mehr Betten, oder ändere ein Gefängnisbett in ein Kolonistenbett.\n\nWenn du mangels Ressourcen keine Betten bauen kannst, greife auf Schlafplätze zurück - sie sind kostenlos und können sofort platziert werden.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>Uko na wakoloni zaidi ya idadi ya vitanda. Kuna mtu atakosa pa kulala.\n\nTengeneza vitanda zaidi, au badilisha kitanda ya mfungwa iwe ya mkoloni.\n\nKama huna rasilimali, unaweza weka eneo ya kulala mara moja bila gharama yoyote.</NeedColonistBedsDesc>
   
   <!-- EN: Colonist left unburied -->
-  <AlertColonistLeftUnburied>Kolonist nicht beerdigt</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburied>Kuna mkoloni hajazikwa</AlertColonistLeftUnburied>
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affects your colonists mood. -->
-  <AlertColonistLeftUnburiedDesc>Ein Kolonist wurde noch nicht beerdigt.\n\nDies kann sich negativ auf die Stimmungslage deiner Kolonisten auswirken.</AlertColonistLeftUnburiedDesc>
+  <AlertColonistLeftUnburiedDesc>Kuna mkoloni hajazikwa.\n\nJambo hili linaweza kupunguza furaha ya wakoloni.</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
-  <HunterLacksWeapon>Jäger ohne Fernkampfwaffe</HunterLacksWeapon>
+  <HunterLacksWeapon>Mwindaji hana silaha ya kurusha au kufyatua</HunterLacksWeapon>
   <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
-  <HunterLacksWeaponDesc>Ein Kolonist ist als 'Jäger' eingeteilt, hat aber keine Fernkampfwaffe.\n\nEr wird nicht jagen, bis er eine Fernkampfwaffe bekommt.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>Kuna mkoloni ameandikwa kazi ya kuwinda, lakini hana silaha ya kurusha au kufyatua.\n\nHatawinda hadi apewe silaha ya aina hii.</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
-  <AlertTatteredApparel>Beschädigte Kleidung</AlertTatteredApparel>
+  <AlertTatteredApparel>Mavazi yaliyochakaa</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
-  <AlertTatteredApparelDesc>Folgende Kolonisten sind unzufrieden, weil sie beschädigte Kleidung tragen:\n\n{0}\nBesorge ihnen etwas Kleidung, die halbwegs in Ordnung ist.\n\nDu kannst Kleidung am Arbeitsplatz oder Schneidertisch herstellen, oder bei Händlern kaufen.</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>Wakoloni hawa wanavaa mavazi yaliyochakaa, hivyo hawana furaha:\n\n{0}\nWape mavazi yasiyo duni hivi.\n\nWaweza kushona mavazi katika eneo la ufundi au meza ya ushonaji.</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
-  <AlertUnhappyNudity>Nackte Kolonisten</AlertUnhappyNudity>
+  <AlertUnhappyNudity>Hawafurahii kuwa uchi</AlertUnhappyNudity>
   <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
-  <AlertUnhappyNudityDesc>Folgende Kolonisten sind unzufrieden, weil sie nackt sind:\n\n{0}\nBesorge ihnen etwas Kleidung.\n\nDu kannst Kleidung am Arbeitsplatz oder Schneidertisch herstellen, oder bei Händlern kaufen.</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudityDesc>Wakoloni hawa wako uchi na hawajafurahia:\n\n{0}\nWape mavazi.\n\nWaweza kushona mavazi katika eneo la ufundi au meza ya ushonaji, au ununue kwa wauzaji.</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
-  <Starvation>Hungernde Kolonisten</Starvation>
+  <Starvation>Njaa</Starvation>
   <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
-  <StarvationDesc>Folgende Kolonisten sind am Verhungern:\n\n{0}\nBesorge ihnen etwas Nahrung.</StarvationDesc>
+  <StarvationDesc>Wakoloni hawa wana njaa:\n\n{0}\nWape chakula.</StarvationDesc>
 
   <!-- EN: Animal starvation -->
-  <StarvationAnimals>Hungernde Tiere</StarvationAnimals>
+  <StarvationAnimals>Wanyama wana njaa</StarvationAnimals>
   <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
-  <StarvationAnimalsDesc>Folgende Tiere der Kolonie sind am Verhungern:\n\n{0}\nBesorge ihnen etwas Nahrung.</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>Wanyama hawa wana njaa:\n\n{0}\nWape chakula.</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
   <Exhaustion>Erschöpfte Kolonisten</Exhaustion>
@@ -189,60 +189,60 @@
   <BilliardsNeedsSpaceDesc>Einer deiner Billardtische steht an einer Blockade. Das verhindert, dass deine Kolonisten ihn benutzen können.\n\nEin Billardtisch braucht rundherum freien Platz, um benutzt werden zu können.</BilliardsNeedsSpaceDesc>
 
   <!-- EN: Hunter has shield and ranged weapon -->
-  <HunterHasShieldAndRangedWeapon>Jäger hat Schild und Fernkampfwaffe</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeapon>Mwindaji amevaa mshipi-ngao na ako na silaha ya kufyatua/kurusha</HunterHasShieldAndRangedWeapon>
   <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
-  <HunterHasShieldAndRangedWeaponDesc>Einer deiner Jäger benutzt eine Fernkampfwaffe und trägt einen Energieschildgürtel, der Schüsse verhindert.\n\nSolange das Energieschild aktiv ist, kann er nicht jagen gehen.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>Mmoja wa wawindaji wako amevaa mshipi-ngao inayokataza ufyatuaji au urushaji na anatumia silaha ya kufyatua au kurusha.\n\nHataweza kuwinda hadi mshipi-ngao hio itolewe.</HunterHasShieldAndRangedWeaponDesc>
 
   <!-- EN: Need warm clothes -->
-  <NeedWarmClothes>Warme Kleidung benötigt</NeedWarmClothes>
+  <NeedWarmClothes>Mavazi ya kukinga baridi yanahitajika</NeedWarmClothes>
   <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1>Mindestens {0} deiner Kolonisten wird/werden in der kalten Jahreszeit keine warme Kleidung haben.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1>Wakoloni {0} watakosa mavazi ya kukinga baridi msimu wa baridi ukifika.</NeedWarmClothesDesc1>
   <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1All>Alle deine Kolonisten werden in der kalten Jahreszeit keine warme Kleidung haben.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc1All>Wakoloni wote watakosa mavazi ya kukinga baridi msimu wa baridi ukifika.</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
-  <NeedWarmClothesDesc2>Die Außentemperatur wird {0} erreichen.\n\nDu kannst warme Kleidung am Schneidertisch herstellen oder von Händlern kaufen.</NeedWarmClothesDesc2>
+  <NeedWarmClothesDesc2>Kiwango cha joto nje kitafika {0}.\n\nUnaweza shona mavazi za kukinga baridi kwenye meza ya ushonaji au ununue kwa wauzaji.</NeedWarmClothesDesc2>
 
   <!-- EN: Immobile caravan -->
-  <ImmobileCaravan>Unbewegliche Karawane</ImmobileCaravan>
+  <ImmobileCaravan>Msafara Hausongi</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
-  <ImmobileCaravanDesc>Eine deiner Karawanen kann sich nicht bewegen, da sie zu viel transportiert.\n\nDu kannst sie wieder mobil machen, indem du einige Gegenstände über den GEGENSTÄNDE-Tab entfernst.</ImmobileCaravanDesc>
+  <ImmobileCaravanDesc>Moja ya misafara yako haiwezi kusonga kwa sababu ya uzito.\n\nUnaweza kutatua shida hii kwa kutupa vitu kadhaa kutoka kwa sehemu ya VITU.</ImmobileCaravanDesc>
 
   <!-- EN: Building unusable due to roof -->
-  <BuildingCantBeUsedRoofed>Konstruktion durch Dach unbenutzbar</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofed>Jengo halitumiki sababu ya paa</BuildingCantBeUsedRoofed>
   <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
-  <BuildingCantBeUsedRoofedDesc>Eine oder mehrere deiner Konstruktionen können nicht genutzt werden, weil sie überdacht sind. Entferne das Dach, um sie nutzbar zu machen.</BuildingCantBeUsedRoofedDesc>
+  <BuildingCantBeUsedRoofedDesc>Jengo moja au zaidi haziwezi kutumika zikiwa na paa, lakini ziko na paa. Jengo hizi hazitatumika hadi paa zitolewe.</BuildingCantBeUsedRoofedDesc>
 
   <!-- EN: Heatstroke -->
-  <AlertHeatstroke>Hitzeschlag</AlertHeatstroke>
+  <AlertHeatstroke>Ugonjwa wa Joto</AlertHeatstroke>
   <!-- EN: The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
-  <AlertHeatstrokeDesc>Folgende Personen leiden an einem Hitzeschlag:\n\n{0}\nBringe sie in einen kühleren Bereich. Du kannst Räume mit passiver oder elektrischer Kühlung kühlen. Tiefe unterirdische Räume bieten ebenfalls eine natürliche Kühlung, sofern sie durch eine Tür von der Außenwelt abgeschirmt sind.</AlertHeatstrokeDesc>
+  <AlertHeatstrokeDesc>Watu wafuatao wanaugua ugonjwa wa joto:\n\n{0}\nWapeleke mahali ambapo hapana joto. Unaweza kupunguza joto vyumbani kwa kutumia vipunguza joto vya kuni au vya umeme. Eneo za chini ya ardhi pia zina baridi ya asili, kama zimetengwa na mlango.</AlertHeatstrokeDesc>
 
   <!-- EN: Guest unhappy -->
-  <QuestPartMoodBelowThreshold>Gast unglücklich</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThreshold>Mgeni Hajafurahi</QuestPartMoodBelowThreshold>
   <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1} -->
-  <QuestPartMoodBelowThresholdDesc>Die Quest '{0}' erfordert, dass du folgende Personen bei guter Laune hältst. Ihre Laune ist jedoch miserabel. Ergreife Maßnahmen, um ihre Laune zu heben:\n\n{1}</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThresholdDesc>Mkataba {0} unakuhitaji umfurahishe mtu huyu. Lakini hajafurahi. Fanya mambo ambayo yatamfurahisha:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
-  <QuestPartShuttleLeaveDelay>Shuttle verlässt uns in {0}</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelay>Gari linaondoka katika {0}</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleLeaveDelayDesc>Das Shuttle verlässt uns in {1}. Die Quest '{0}' erfordert, dass du folgende Personen oder Gegenstände auf das Shuttle lädst, bevor es wegfliegt:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDesc>Gari litaondoka katika {1}. Mkataba {0} unakuhitaji uwaweke watu au vitu hivi kwenye gari kabla liondoke:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
 
   <!-- EN: Monument will be destroyed -->
-  <DisallowedBuildingInsideMonument>Denkmal wird zerstört</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonument>Mnara utabomolewa</DisallowedBuildingInsideMonument>
   <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
-  <DisallowedBuildingInsideMonumentDesc>Du hast in einem deiner Denkmäler eine verbotene Konstruktion gebaut. In {0} wird das Denkmal so behandelt, als wäre es zerstört worden.</DisallowedBuildingInsideMonumentDesc>
+  <DisallowedBuildingInsideMonumentDesc>Umejenga jengo lisilokubalika ndani ya moja ya minara yako. Katika {0} mnara utabomolewa.</DisallowedBuildingInsideMonumentDesc>
 
   <!-- EN: Countdown activator {0} -->
-  <ActivatorCountdown>Countdown-Aktivator {0}</ActivatorCountdown>
+  <ActivatorCountdown>Chombo cha kupima muda {0}</ActivatorCountdown>
   <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDesc>Ein Countdown-Aktivator tickt herunter und bereitet sich darauf vor, nahegelegene Mechanoiden zu wecken.</ActivatorCountdownDesc>
+  <ActivatorCountdownDesc>Kuna chombo cha kupima muda kinapunguza madakika, kikijitayarisha kuamsha maroboti wa vita walio karibu.</ActivatorCountdownDesc>
   <!-- EN: {0} countdown activators -->
-  <ActivatorCountdownMultiple>{0} Countdown-Aktivatoren</ActivatorCountdownMultiple>
+  <ActivatorCountdownMultiple>{0} Vyombo vya kupima muda</ActivatorCountdownMultiple>
   <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDescMultiple>{0} Countdown-Aktivatoren ticken herunter und bereiten sich darauf vor, nahegelegene Mechanoiden zu erwecken.</ActivatorCountdownDescMultiple>
+  <ActivatorCountdownDescMultiple>Kuna vyombo {0} vya kupima muda vinapunguza madakika, vikijitayarisha kuamsha maroboti wa vita walio karibu.</ActivatorCountdownDescMultiple>
 
   <!-- EN: Quest expires in {0} -->
-  <QuestExpiresSoon>Quest läuft in {0} ab</QuestExpiresSoon>
+  <QuestExpiresSoon>Mkataba utaishiwa na muda katika {0}</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
-  <QuestExpiresSoonDesc>Die Quest '{0}' wird in {1} ablaufen.</QuestExpiresSoonDesc>
+  <QuestExpiresSoonDesc>Mkataba {0} utaishiwa na muda katika {1}.</QuestExpiresSoonDesc>
 </LanguageData>
