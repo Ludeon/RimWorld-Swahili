@@ -94,94 +94,94 @@
   <StarvationAnimalsDesc>Wanyama hawa wana njaa:\n\n{0}\nWape chakula.</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
-  <Exhaustion>Erschöpfte Kolonisten</Exhaustion>
+  <Exhaustion>Uchovu</Exhaustion>
   <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
-  <ExhaustionDesc>Folgende Kolonisten sind erschöpft und müssen sich erholen:\n\n{0}\nSorge dafür, dass sie etwas Erholung bekommen. Sie brauchen ein Bett, das für Kolonisten reserviert ist. Stelle außerdem sicher, dass sie nicht im Kampfmodus sind.</ExhaustionDesc>
+  <ExhaustionDesc>Wakoloni hawa wamechoka na wanahitaji kupumzika:\n\n{0}\nWaandalie mapumziko. Watahitaji vitanda vya wakoloni. Pia hakikisha hawajaamrishwa kijeshi.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
-  <NeedFoodHopper>Trichter benötigt</NeedFoodHopper>
+  <NeedFoodHopper>Ndoo ya chakula inahitajika</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
-  <NeedFoodHopperDesc>Du hast einen Nährstoffpastenspender, aber keinen angebauten Trichter.\n\nDamit er funktioniert, braucht er einen Trichter mit rohen Lebensmitteln.\n\nBaue einen Trichter direkt neben dem Spender.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>Uko na mtambo wa kuunda chakula bila ndoo karibu nayo.\n\nMitambo hii hupakua chakula mbichi kutoka kwa ndoo iliyo karibu.\n\nJenga ndoo ya chakula karibu na mtambo huu.</NeedFoodHopperDesc>
 
   <!-- EN: Need meal source -->
-  <NeedMealSource>Kochgelegenheit benötigt</NeedMealSource>
+  <NeedMealSource>Jiko inahitajika</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
-  <NeedMealSourceDesc>Du hast keine Möglichkeit, vernünftige Mahlzeiten aus rohen Zutaten herzustellen.\n\nBaue ein Lagerfeuer, eine Kochstelle oder einen Nährstoffpastenspender\n\n(Der Spender darf nicht in einer Gefängniszelle stehen. Dort können die Kolonisten ihn nicht verwenden.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>Huna njia ya kupika kutoka kwa chakula mbichi.\n\nJenga jiko, moto au mtambo wa kuunda chakula.\n\n(Haiwezi kujengwa gerezani, kwa vile wakoloni hawataweza kuitumia.)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
-  <NeedJoySource>Abwechslungsreiche Entspannung benötigt</NeedJoySource>
+  <NeedJoySource>Aina kadhaa za burudani zinahitajika</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>Es sind nur {0} verschiedene Entspannungsmöglichkeiten in {1} vorhanden, aber beim aktuellen Level der Erwartungshaltung ({2}) benötigen die Kolonisten {3} unterschiedliche Entspannungsmöglichkeiten, um zufrieden zu bleiben.\n\nStelle unterschiedliche Entspannungsmöglichkeiten zur Verfügung.\n\n{4}\n\n{5}\n\nHinweis: Du kannst den Entspannungstyp erfahren, indem du auf die Status-Seite des jeweiligen Gegenstandes schaust - Erreichbar über die 'i' Schaltfläche.</NeedJoySourceDesc>
+  <NeedJoySourceDesc>Kuna aina {0} pekee za burudani hapa {1}, lakini katika kiwango cha matarajio cha ({2}) wakoloni wanahitaji aina {3} tofauti za burudani ili watosheke. Wape chaguo kwa kuwapea aina mpya ya burudani\n\n{4}\n\n{5}\n\nKumbuka: Unaweza angalia aina ya burudani ya kitu yoyote kwenye ukurasa wake wa stats, unaopatikana na kidude cha 'i'.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
-  <AvailableRecreationTypes>Verfügbare Entspannungsarten</AvailableRecreationTypes>
+  <AvailableRecreationTypes>Aina za burudani zilizomo</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
-  <MissingRecreationTypes>Fehlende Entspannungsarten</MissingRecreationTypes>
+  <MissingRecreationTypes>Aina za burudani zisizomo</MissingRecreationTypes>
   <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
-  <CurrentExpectationsAndRecreation>Bei der aktuellen Erwartungshaltung ({0}) fällt jede Toleranz um {1} pro Tag im Wachzustand. Empfohlen sind {2} Möglichkeiten zur Entspannung.</CurrentExpectationsAndRecreation>
+  <CurrentExpectationsAndRecreation>Katika kiwango cha matarajio cha ({0}), uzoefu unapungua na {1} kila kuchao. Unashauriwa uwe na aina {2} za burudani.</CurrentExpectationsAndRecreation>
   <!-- EN: bored -->
-  <bored>gelangweilt</bored>
+  <bored>Kuboeka</bored>
 
   <!-- EN: Boredom -->
-  <Boredom>Langeweile</Boredom>
+  <Boredom>Watu wameboeka</Boredom>
   <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
-  <BoredomDesc>Die folgenden Personen benötigen entweder Entspannung oder sollen sich entspannen, sind aber von den verfügbaren Möglichkeiten gelangweilt:\n\n{0}\n\nOrganisiere unterschiedliche Entspannungsmöglichkeiten.\n\nAktuell verfügbare Entspannungsarten für {PAWN_labelShort}:\n\n{2}</BoredomDesc>
+  <BoredomDesc>Watu hawa wanahitaji burudani au wamechoshwa na aina zote za burudani zilizomo:\n\n{0}\n\nWaongezee aina za burudani.\n\nAina za burudani zinazopatikana na {PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
-  <NeedBatteries>Batterien benötigt</NeedBatteries>
+  <NeedBatteries>Betri zinahitajika</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
-  <NeedBatteriesDesc>Du hast Solar- oder Windenergie, aber keine Batterien. Das bedeutet, dass du nach Sonnenuntergang oder bei Windstille keinen Strom mehr hast.\n\nBaue ein oder zwei Batterien, um eine konstante Stromversorgung zu gewährleisten.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Uko na mtambo wa nishati wa jua au upepo, lakini huna betri. Yamaanisha jua linapotua au upepo kutulia utapoteza nguvu za umeme.\n\nJenga betri moja au mbili ili umeme usipotee.</NeedBatteriesDesc>
 
   <!-- EN: Brawler has ranged weapon -->
-  <BrawlerHasRangedWeapon>Raufbold trägt Fernkampfwaffe</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeapon>Mkoloni wa vita vya mkono ana silaha ya kurusha/kufyatua</BrawlerHasRangedWeapon>
   <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
-  <BrawlerHasRangedWeaponDesc>Einer deiner Kolonisten hat die 'Raufbold'-Eigenschaft, aber trägt eine Fernkampfwaffe. Das wird ihn unzufrieden stimmen.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>Mkoloni wako mmoja ako na tabia ya kupigana kwa mikono, lakini ako na silaha ya kurusha/kufyatua. Jambo hili halitamfurahisha.</BrawlerHasRangedWeaponDesc>
 
   <!-- EN: Shield user has ranged weapon -->
-  <ShieldUserHasRangedWeapon>Energieschildnutzer hat Fernkampfwaffe</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeapon>Mwenye mshipi-ngao ako na silaha ya kufyatua/kurusha.</ShieldUserHasRangedWeapon>
   <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
-  <ShieldUserHasRangedWeaponDesc>Einer deiner Kolonisten hat einen Energieschildgürtel und trägt eine Fernkampfwaffe. Der Energieschild verhindert, dass er die Waffe gegen Gegner einsetzen kann (außer gegen Ziele, die den Energieschild berühren).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>Mkoloni mmoja mwenye mshipi-ngao ako na silaha ya kufyatua/kurusha. Hataweza kuitumia silaha hio ila kwa lengo lililomgusa.</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need research project -->
-  <NeedResearchProject>Keine Forschung</NeedResearchProject>
+  <NeedResearchProject>Mradi wa utafiti unatakikana.</NeedResearchProject>
   <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
-  <NeedResearchProjectDesc>Du hast die Ausrüstung zum Forschen, aber kein Forschungsprojekt.\n\nÖffne das Forschungsmenü und wähle eines aus.</NeedResearchProjectDesc>
+  <NeedResearchProjectDesc>Uko na vifaa vya utafiti lakini hujachagua mradi.\n\nÖFungua menu ya utafiti kisha uchague mradi.</NeedResearchProjectDesc>
 
   <!-- EN: {0} colonists idle -->
-  <ColonistsIdle>{0} Kolonisten untätig</ColonistsIdle>
+  <ColonistsIdle>Wakoloni {0} hawana kazi</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
-  <ColonistsIdleDesc>Folgende Kolonisten laufen untätig herum:\n\n{0}\nDu solltest ihnen eine Arbeit zuweisen.</ColonistsIdleDesc>
+  <ColonistsIdleDesc>Hawa wakoloni wanazurura bila shughuli:\n\n{0}\nWapatie kazi za kufanya.</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
-  <CaravanIdle>Karawane untätig</CaravanIdle>
+  <CaravanIdle>Msafara hauna maagizo</CaravanIdle>
   <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
-  <CaravanIdleDesc>Folgende Karawanen warten darauf, dass du ihnen ihr nächstes Ziel zuweist:\n\n{0}</CaravanIdleDesc>
+  <CaravanIdleDesc>Misafara hii yanangoja maagizo kuhusu njia ya kufuata:\n\n{0}</CaravanIdleDesc>
 
   <!-- EN: Colonist needs treatment -->
-  <ColonistNeedsTreatment>Behandlung benötigt</ColonistNeedsTreatment>
+  <ColonistNeedsTreatment>Mkoloni anahitaji matibabu</ColonistNeedsTreatment>
   <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDesc>Folgende Kolonisten benötigen medizinische Behandlung, sonst kann es passieren, dass sie an ihren Wunden sterben oder dass ihre Wunden bleibende Schäden hinterlassen.\n\n{0}\nUm sie zu behandeln, müssen sie in einem Krankenbett liegen.\n\n(Als erstes musst du ein Bett als Krankenbett definieren, indem du es auswählst und auf KRANKENBETT klickst. Wähle danach den verletzten Kolonisten aus und rechtsklicke auf das Krankenbett, um ihn zum Patienten zu machen.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>Wakoloni hawa wanahitaji matibabu. Bila matibabu huenda majeraha yao yatawaua, au yatakuwa yakudumu.\n\n{0}\nWatume kwenye kitanda cha matibabu.\n\n(Kwanza ashiria kitanda cha matibabu kwa kuchagua kitanda na kukifanya kiwe cha matibabu. Kisha mchague mkoloni aliyeumia na ubonyeze kipanya kulia kwa kitanda hicho.)</ColonistNeedsTreatmentDesc>
 
   <!-- EN: Hypothermia -->
-  <AlertHypothermia>Hypothermie</AlertHypothermia>
+  <AlertHypothermia>Ugonjwa wa baridi</AlertHypothermia>
   <!-- EN: These colonists are suffering from hypothermia:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
-  <AlertHypothermiaDesc>Folgende Kolonisten leiden an Hypothermie:\n\n{0}\nStelle sicher, dass sie entsprechend der Jahreszeit gekleidet und Innenräume gut geheizt sind.</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>Wakoloni hawa wanaugua ugonjwa wa baridi:\n\n{0}\nHakikisha mavazi yao yanafaa kwa msimu wa baridi na vyumba vyote viko na vifaa vya kupashia nyumba vya kutosha.</AlertHypothermiaDesc>
   
   <!-- EN: {0} patients await medical operation -->
-  <PatientsAwaitingMedicalOperation>{0} Patient(en) warten auf ihre Operation</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperation>Wagonjwa {0} wanasubiri upasuaji</PatientsAwaitingMedicalOperation>
   <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
-  <PatientsAwaitingMedicalOperationDesc>Folgende Patienten warten auf einen chirurgischen Eingriff:\n\n{0}\nStelle sicher, dass du das benötigte medizinische Material sowie einen Arzt zur Verfügung stehen hast.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperationDesc>Wagonjwa hawa wanasubiri upasuaji:\n\n{0}\nHakikisha una vifaa vyote na daktari kwa kazi hii.</PatientsAwaitingMedicalOperationDesc>
 
   <!-- EN: Fire! -->
-  <FireInHomeArea>Feuer!</FireInHomeArea>
+  <FireInHomeArea>Moto!</FireInHomeArea>
   <!-- EN: There is a fire in the home area. -->
-  <FireInHomeAreaDesc>Im Heimatgebiet ist ein Feuer ausgebrochen.</FireInHomeAreaDesc>
+  <FireInHomeAreaDesc>Kuna moto katika eneo la nyumbani.</FireInHomeAreaDesc>
 
   <!-- EN: Medical emergency -->
-  <PawnsWithLifeThreateningDisease>Medizinischer Notfall</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDisease>Dharura ya kiafya</PawnsWithLifeThreateningDisease>
   <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
-  <PawnsWithLifeThreateningDiseaseDesc>Die folgenden Personen stehen kurz davor, an ihrer schweren Krankheit zu sterben:\n\n{0}\nSorge dafür, dass sie die bestmögliche ärztliche Versorgung erhalten.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>Kuna watu wako katika hali mahututi kwa ugonjwa:\n\n{0}\nHakikisha wamepewa matibabu ya hali ya juu iwezekanavyo.</PawnsWithLifeThreateningDiseaseDesc>
   <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>Die folgenden Personen stehen kurz davor, an ihrer schweren Krankheit zu sterben:\n\n{0}\nZiehe in Betracht, die infizierten Körperteile, soweit möglich, zu ersetzen oder zumindest zu amputieren.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Kuna watu wako katika hali mahututi kwa ugonjwa:\n\n{0}\nIkiwezekana kata kiungo kilichoathirika ili kuokoa maisha ya mkoloni.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <!-- EN: Billiards needs space -->
   <BilliardsNeedsSpace>Billard braucht Platz</BilliardsNeedsSpace>
@@ -189,7 +189,7 @@
   <BilliardsNeedsSpaceDesc>Einer deiner Billardtische steht an einer Blockade. Das verhindert, dass deine Kolonisten ihn benutzen können.\n\nEin Billardtisch braucht rundherum freien Platz, um benutzt werden zu können.</BilliardsNeedsSpaceDesc>
 
   <!-- EN: Hunter has shield and ranged weapon -->
-  <HunterHasShieldAndRangedWeapon>Mwindaji amevaa mshipi-ngao na ako na silaha ya kufyatua/kurusha</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeapon>Mwindaji amevaa mshipi-ngao na ako na silaha ya kufyatua/kurusha.</HunterHasShieldAndRangedWeapon>
   <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
   <HunterHasShieldAndRangedWeaponDesc>Mmoja wa wawindaji wako amevaa mshipi-ngao inayokataza ufyatuaji au urushaji na anatumia silaha ya kufyatua au kurusha.\n\nHataweza kuwinda hadi mshipi-ngao hio itolewe.</HunterHasShieldAndRangedWeaponDesc>
 
