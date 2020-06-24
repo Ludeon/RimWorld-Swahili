@@ -111,136 +111,136 @@
   <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
   <DesignatorExpandAreaAllowedDesc>Ongeza eneo linalokubalika.\n\nMaeneo yanayokubalika ni maeneo ambayo wakoloni wanaweza tumwa. Wakoloni hawatakubali kazi au kukimu mahitaji yao nje ya maeneo yanayokubalika.</DesignatorExpandAreaAllowedDesc>
   <!-- EN: Clear allowed area -->
-  <DesignatorClearAreaAllowed>Arbeitsgebiet verkleinern</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowed>Toa eneo linalokubalika</DesignatorClearAreaAllowed>
   <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorClearAreaAllowedDesc>Verkleinert ein Arbeitsgebiet.\n\nArbeitsgebiete sind definierte Bereiche, die man Kolonisten zuweisen kann. Kolonisten beschränken ihre Arbeit und Bedürfnisse nur auf dieses Gebiet.</DesignatorClearAreaAllowedDesc>
+  <DesignatorClearAreaAllowedDesc>Toa eneo kwenye orodha ya maeneo yanayokubalika.\n\nMaeneo yanayokubalika ni maeneo ambayo wakoloni wanaweza tumwa. Wakoloni hawatakubali kazi au kukimu mahitaji yao nje ya maeneo yanayokubalika.</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
-  <ManageAreas>Gebiete verwalten...</ManageAreas>
+  <ManageAreas>Panga maeneo...</ManageAreas>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
-  <DesignatorGrowingZoneDesc>Erstellt eine Anbauzone, in der verschiedene Pflanzenarten angebaut werden können.</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZoneDesc>Ongeza eneo la ukulima wa mmea fulani.</DesignatorGrowingZoneDesc>
 
   <!-- EN: Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile. -->
-  <DesignatorZoneCreateStorageResourcesDesc>Erstellt eine Lagerzone, in welcher verschiedene Ressourcen gelagert werden können.\nDieser Befehl kann auch bereits bestehende Lager erweitern.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>Jenga ghala ya kuweka rasilmali.\nKidude hiki kinaweza kutumika pia kuongeza ukubwa wa ghala iliyopo.</DesignatorZoneCreateStorageResourcesDesc>
 
   <!-- EN: Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile. -->
-  <DesignatorZoneCreateStorageDumpingDesc>Erstellt eine Abfallzone, in der bestimmte Abfälle gelagert werden.\nDieser Befehl kann auch bereits bestehende Abfallzonen erweitern.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingDesc>Jenga ghala ya kuweka takataka.\nKidude hiki kinaweza kutumika pia kuongeza ukubwa wa ghala iliyopo.</DesignatorZoneCreateStorageDumpingDesc>
 
   <!-- EN: Shrink zones -->
-  <DesignatorZoneDelete>Zonen verkleinern</DesignatorZoneDelete>
+  <DesignatorZoneDelete>Punguza maeneo</DesignatorZoneDelete>
   <!-- EN: Shrink zone -->
-  <DesignatorZoneDeleteSingular>Zone verkleinern</DesignatorZoneDeleteSingular>
+  <DesignatorZoneDeleteSingular>Punguza eneo</DesignatorZoneDeleteSingular>
   <!-- EN: Remove zones, like stockpile zones or growing zones. -->
-  <DesignatorZoneDeleteDesc>Entfernt Zonen, wie z.B. Lager- und Abfallzonen.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDeleteDesc>Toa maeneo, kama ghala au maeneo ya ukulima.</DesignatorZoneDeleteDesc>
 
   <!-- EN: Expand zone -->
-  <DesignatorZoneExpand>Zone erweitern</DesignatorZoneExpand>
+  <DesignatorZoneExpand>Ongeza eneo</DesignatorZoneExpand>
   
   <!-- EN: Claim -->
-  <DesignatorClaim>In Besitz nehmen</DesignatorClaim>
+  <DesignatorClaim>Rithi</DesignatorClaim>
   <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
-  <DesignatorClaimDesc>Nimmt neutrale Strukturen für deine Kolonie in Anspruch. Hierunter fallen z.B. antike Ruinen oder verlassene Belagerungsstrukturen. Beanspruchte Strukturen können von den Kolonisten repariert und benutzt werden.</DesignatorClaimDesc>
+  <DesignatorClaimDesc>Rithi majengo yasiyo na wenyewe yawe yako. Kama magofu na vituo vilivyoachwa. Majengo unayoyarithi yatarekebishwa na kusafishwa na wakoloni.</DesignatorClaimDesc>
 
   <!-- EN: Remove floor -->
-  <DesignatorRemoveFloor>Boden entfernen</DesignatorRemoveFloor>
+  <DesignatorRemoveFloor>Toa sakafu</DesignatorRemoveFloor>
   <!-- EN: Remove floors to reveal the terrain underneath. -->
-  <DesignatorRemoveFloorDesc>Entfernt Böden, um die darunter liegende Erde freizulegen.</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveFloorDesc>Toa sakafu kufichua ardhi iliyo chini.</DesignatorRemoveFloorDesc>
 
   <!-- EN: Remove bridge -->
-  <DesignatorRemoveBridge>Brücke entfernen</DesignatorRemoveBridge>
+  <DesignatorRemoveBridge>Toa daraja</DesignatorRemoveBridge>
   <!-- EN: Remove bridges to reveal the terrain underneath. -->
-  <DesignatorRemoveBridgeDesc>Entferne Brücken, um das darunter liegende Gelände freizulegen.</DesignatorRemoveBridgeDesc>
+  <DesignatorRemoveBridgeDesc>Toa daraja kufichua ardhi iliyo chini.</DesignatorRemoveBridgeDesc>
 
   <!-- EN: Strip -->
-  <DesignatorStrip>Ausziehen</DesignatorStrip>
+  <DesignatorStrip>Vua mavazi</DesignatorStrip>
   <!-- EN: Strip apparel from corpses and the wounded. -->
-  <DesignatorStripDesc>Markiert Leichen und Verwundete, die entkleidet werden sollen.</DesignatorStripDesc>
+  <DesignatorStripDesc>Vua mavazi kutoka kwa maiti na wagonjwa.</DesignatorStripDesc>
 
   <!-- EN: Open -->
-  <DesignatorOpen>Öffnen</DesignatorOpen>
+  <DesignatorOpen>Fungua</DesignatorOpen>
   <!-- EN: Open containers. -->
-  <DesignatorOpenDesc>Öffnet Behälter.</DesignatorOpenDesc>
+  <DesignatorOpenDesc>Fungua vyombo.</DesignatorOpenDesc>
   
   <!-- EN: Slaughter -->
-  <DesignatorSlaughter>Schlachten</DesignatorSlaughter>
+  <DesignatorSlaughter>Chinja</DesignatorSlaughter>
   <!-- EN: Slaughter a tame animal. -->
-  <DesignatorSlaughterDesc>Markiert zahme Tiere, die geschlachtet werden sollen.</DesignatorSlaughterDesc>
+  <DesignatorSlaughterDesc>Chinja mnyama wa nyumbani</DesignatorSlaughterDesc>
 
   <!-- EN: Tame -->
-  <DesignatorTame>Zähmen</DesignatorTame>
+  <DesignatorTame>Fuga</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
-  <DesignatorTameDesc>Markiert wilde Tiere, die gezähmt werden sollen.</DesignatorTameDesc>
+  <DesignatorTameDesc>Funza mnyama pori kuishi nyumbani.</DesignatorTameDesc>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
-  <UnchosenStuff>Nicht ausgewähltes Material</UnchosenStuff>
+  <UnchosenStuff>Hujachagua nyenzo</UnchosenStuff>
   <!-- EN: Too close to map edge. -->
-  <TooCloseToMapEdge>Zu nah am Kartenrand.</TooCloseToMapEdge>
+  <TooCloseToMapEdge>Karibu sana na mpaka wa ramani.</TooCloseToMapEdge>
   <!-- EN: Out of bounds. -->
-  <OutOfBounds>Außerhalb der Karte.</OutOfBounds>
+  <OutOfBounds>Hapa hapakubaliki.</OutOfBounds>
   <!-- EN: Cannot place in undiscovered areas. -->
-  <CannotPlaceInUndiscovered>Platzierung von Objekten in unentdeckten Gebieten nicht möglich.</CannotPlaceInUndiscovered>
+  <CannotPlaceInUndiscovered>Huwezi jenga mahali ambapo hapajagunduliwa.</CannotPlaceInUndiscovered>
   <!-- EN: Interaction spot is blocked by {1_labelShort}. -->
-  <InteractionSpotBlocked>Interaktionspunkt blockiert durch {1_labelShort}.</InteractionSpotBlocked>
+  <InteractionSpotBlocked>Nafasi ya kutumia imezuiliwa na {1_labelShort}.</InteractionSpotBlocked>
   <!-- EN: Interaction spot is out of bounds. -->
-  <InteractionSpotOutOfBounds>Interaktionspunkt ist außerhalb der Begrenzungen.</InteractionSpotOutOfBounds>
+  <InteractionSpotOutOfBounds>Nafasi ya kutumia hairuhusiwi.</InteractionSpotOutOfBounds>
   <!-- EN: Interaction spot will be blocked by {1_labelShort}. -->
-  <InteractionSpotWillBeBlocked>Interaktionspunkt wird blockiert durch {1_labelShort}.</InteractionSpotWillBeBlocked>
+  <InteractionSpotWillBeBlocked>Nafasi ya kutumia itazuiliwa na {1_labelShort}.</InteractionSpotWillBeBlocked>
   <!-- EN: {0} would block {1}'s interaction spot. -->
-  <WouldBlockInteractionSpot>{0} wird den Interaktionspunkt von {1} blockieren.</WouldBlockInteractionSpot>
+  <WouldBlockInteractionSpot>{0} itazuia nafasi ya kutumia {1}.</WouldBlockInteractionSpot>
   <!-- EN: The terrain here is already {0}. -->
-  <TerrainIsAlready>Dieser Boden besteht schon aus {0}.</TerrainIsAlready>
+  <TerrainIsAlready>Ardhi ya hapa tayari ni {0}.</TerrainIsAlready>
   <!-- EN: The surface is already marked for smoothing. -->
-  <SurfaceBeingSmoothed>Diese Oberfläche ist bereits zum Glätten markiert.</SurfaceBeingSmoothed>
+  <SurfaceBeingSmoothed>Sakafu au ukuta huu tayari umeamuru ulainishwe.</SurfaceBeingSmoothed>
   <!-- EN: Identical thing already exists here. -->
-  <IdenticalThingExists>Hier ist bereits ein identischer Gegenstand.</IdenticalThingExists>
+  <IdenticalThingExists>Tayari kitu hiki kiko hapa.</IdenticalThingExists>
   <!-- EN: Identical blueprint already exists here. -->
-  <IdenticalBlueprintExists>Hier ist bereits eine identische Blaupause.</IdenticalBlueprintExists>
+  <IdenticalBlueprintExists>Tayari kitu hiki kimeamrishwa hapa.</IdenticalBlueprintExists>
   <!-- EN: {0_label} cannot be built on this terrain. -->
-  <TerrainCannotSupport>{0_label} kann nicht auf diesem Boden gebaut werden.</TerrainCannotSupport>
+  <TerrainCannotSupport>{0_label} haiwezi jengwa kwa ardhi hii.</TerrainCannotSupport>
   <!-- EN: {0_label} requires terrain that supports: {1_label} -->
-  <TerrainCannotSupport_TerrainAffordance>{0_label} benötigt einen Boden, der Gegenstände vom Gewichtstyp '{1_label}' tragen kann.</TerrainCannotSupport_TerrainAffordance>
+  <TerrainCannotSupport_TerrainAffordance>{0_label} inahitaji ardhi ambayo itabeba: '{1_label}'.</TerrainCannotSupport_TerrainAffordance>
   <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->
-  <TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} (bestehend aus {2_label}) benötigt einen Boden, der Gegenstände vom Gewichtstyp '{1_label}' tragen kann.</TerrainCannotSupport_TerrainAffordanceFromStuff>
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} (ikiundwa na {2_label}) inahitaji ardhi ambayo itabeba: '{1_label}' tragen kann.</TerrainCannotSupport_TerrainAffordanceFromStuff>
   <!-- EN: Space already occupied. -->
-  <SpaceAlreadyOccupied>Bauplatz ist bereits belegt.</SpaceAlreadyOccupied>
+  <SpaceAlreadyOccupied>Nafasi hii imeshachukuliwa.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
-  <SpaceBeingSmoothed>Fläche wird geglättet.</SpaceBeingSmoothed>
+  <SpaceBeingSmoothed>Sakafu au ukuta huu unalainishwa.</SpaceBeingSmoothed>
   <!-- EN: Must target a removable floor. -->
-  <TerrainMustBeRemovable>Kann nur auf Boden angewandt werden, der entfernt werden kann.</TerrainMustBeRemovable>
+  <TerrainMustBeRemovable>Lazima utumie sakafu inayoweza kutolewa.</TerrainMustBeRemovable>
   <!-- EN: The waterwheel must be on moving water. -->
-  <MustBeOnMovingWater>Das Wasserrad muss auf bewegtem Wasser gebaut werden.</MustBeOnMovingWater>
+  <MustBeOnMovingWater>Gurudumu lazima liwe kwenye maji yanayotiririka.</MustBeOnMovingWater>
   <!-- EN: Interaction spot will overlap with the interaction spot of {1_labelShort}. -->
-  <InteractionSpotWillOverlap>Interaktionspunkt wird sich mit dem Interaktionspunkt von {1_labelShort} überschneiden.</InteractionSpotWillOverlap>
+  <InteractionSpotWillOverlap>Mahali  {1_labelShort} überschneiden.</InteractionSpotWillOverlap>
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
-  <InteractionSpotOverlaps>Interaktionspunkt überschneidet sich mit dem Interaktionspunkt von {1_labelShort}.</InteractionSpotOverlaps>
+  <InteractionSpotOverlaps>Nafasi ya kutumia itaingiliana na nafasi ya kutumia ya {1_labelShort}.</InteractionSpotOverlaps>
   <!-- EN: Monuments cannot be placed over other buildings. -->
-  <MonumentOverlapsBuilding>Denkmäler können nicht auf anderen Konstruktionen platziert werden.</MonumentOverlapsBuilding>
+  <MonumentOverlapsBuilding>Mnara hauwezi jengwa juu ya majengo mengine.</MonumentOverlapsBuilding>
   <!-- EN: Monument cannot be placed adjacent to a building. -->
-  <MonumentAdjacentToBuilding>Denkmäler können nicht direkt neben anderen Konstruktionen platziert werden.</MonumentAdjacentToBuilding>
+  <MonumentAdjacentToBuilding>Mnara hauwezi jengwa kando ya jengo lingine.</MonumentAdjacentToBuilding>
   <!-- EN: Monuments cannot be placed on incompatible terrain. -->
-  <MonumentBadTerrain>Denkmäler können nicht auf unpassendem Gelände platziert werden.</MonumentBadTerrain>
+  <MonumentBadTerrain>Mnara hauwezi jengwa kwa ardhi isiyofaa.</MonumentBadTerrain>
   <!-- EN: Monuments cannot be placed over permanent obstructions. -->
-  <MonumentBlockedPermanently>Denkmäler können nicht auf feste Hindernisse platziert werden.</MonumentBlockedPermanently>
+  <MonumentBlockedPermanently>Mnara hauwezi jengwa juu ya vizuizi vya kudumu.</MonumentBlockedPermanently>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
-  <ExpandOrCreateZone>Erweitert {0} oder\nErstellt {1}</ExpandOrCreateZone>
+  <ExpandOrCreateZone>Ongeza {0} oder\nAnzisha {1} mpya</ExpandOrCreateZone>
   <!-- EN: Create new {0} -->
-  <CreateNewZone>Erstellt {0}</CreateNewZone>
+  <CreateNewZone>Anzisha {0} mpya</CreateNewZone>
   
   <!-- Desc helpers -->
   <!-- EN: Transmits power -->
-  <TransmitsPower>Leitet Strom</TransmitsPower>
+  <TransmitsPower>Husafirisha umeme</TransmitsPower>
   <!-- EN: Construction needed -->
-  <ConstructionNeeded>Konstruktion benötigt</ConstructionNeeded>
+  <ConstructionNeeded>Ujenzi unatakikana</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
-  <NoColonistWithSkillTip>Keiner deiner {0} hat diese Fähigkeit.</NoColonistWithSkillTip>
+  <NoColonistWithSkillTip>Huna {0} aliye na ustadi huu.</NoColonistWithSkillTip>
   <!-- EN: {0} needed -->
-  <SkillNeededForConstructing>{0} benötigt</SkillNeededForConstructing>
+  <SkillNeededForConstructing>{0} inatakikana</SkillNeededForConstructing>
   <!-- EN: None of your {0} have all skills required. -->
-  <NoColonistWithAllSkillsForConstructing>Keiner deiner {0} verfügt über alle erforderlichen Fähigkeiten.</NoColonistWithAllSkillsForConstructing>
+  <NoColonistWithAllSkillsForConstructing>Huna {0} aliye na ustadi wa aina zote zitakikanazo.</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
-  <AllColonistsWithSkillHaveDisabledConstructingTip>Von deinen {0}, die diese Fähigkeit haben, ist niemand für {1} zugewiesen.</AllColonistsWithSkillHaveDisabledConstructingTip>
+  <AllColonistsWithSkillHaveDisabledConstructingTip>{0} wote wenye ustadi huu hawajaandikwa kwa {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
 
 </LanguageData>
