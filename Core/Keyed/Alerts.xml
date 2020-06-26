@@ -111,7 +111,7 @@
   <!-- EN: Need recreation variety -->
   <NeedJoySource>Aina kadhaa za burudani zinahitajika</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>Kuna aina {0} pekee za burudani hapa {1}, lakini katika kiwango cha matarajio cha ({2}) wakoloni wanahitaji aina {3} tofauti za burudani ili watosheke. Wape chaguo kwa kuwapea aina mpya ya burudani\n\n{4}\n\n{5}\n\nKumbuka: Unaweza angalia aina ya burudani ya kitu yoyote kwenye ukurasa wake wa stats, unaopatikana na kidude cha 'i'.</NeedJoySourceDesc>
+  <NeedJoySourceDesc>Kuna aina {0} pekee za burudani hapa {1}, lakini katika kiwango cha matarajio cha ({2}) wakoloni wanahitaji aina {3} tofauti za burudani ili watosheke. Wape chaguo kwa kuwapea aina mpya ya burudani\n\n{4}\n\n{5}\n\nKumbuka: Unaweza angalia aina ya burudani ya kitu yoyote kwenye ukurasa wake wa takwimu, unaopatikana na kidude cha 'i'.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
   <AvailableRecreationTypes>Aina za burudani zilizomo</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->

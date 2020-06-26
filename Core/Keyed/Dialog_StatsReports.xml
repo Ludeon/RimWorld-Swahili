@@ -2,118 +2,118 @@
 <LanguageData>
 
   <!-- EN: Tool -->
-  <Tool>Werkzeug</Tool>
+  <Tool>Kifaa</Tool>
   <!-- EN: damage -->
-  <DamageLower>Schaden</DamageLower>
+  <DamageLower>Hasara</DamageLower>
   <!-- EN: seconds per attack -->
-  <SecondsPerAttackLower>Sekunden pro Angriff</SecondsPerAttackLower>
+  <SecondsPerAttackLower>Sekunde kwa kila shambulio</SecondsPerAttackLower>
 
   <!-- EN: Base value -->
-  <StatsReport_BaseValue>Grundwert</StatsReport_BaseValue>
+  <StatsReport_BaseValue>Thamani ya msingi</StatsReport_BaseValue>
   <!-- EN: Relevant traits -->
-  <StatsReport_RelevantTraits>Relevante Merkmale</StatsReport_RelevantTraits>
+  <StatsReport_RelevantTraits>Tabia husika</StatsReport_RelevantTraits>
   <!-- EN: Relevant gear -->
-  <StatsReport_RelevantGear>Relevante Ausrüstung</StatsReport_RelevantGear>
+  <StatsReport_RelevantGear>Mizigo husika</StatsReport_RelevantGear>
   <!-- EN: Relevant health conditions -->
-  <StatsReport_RelevantHediffs>Relevante Gesundheitszustände</StatsReport_RelevantHediffs>
+  <StatsReport_RelevantHediffs>Afya husika</StatsReport_RelevantHediffs>
   <!-- EN: Life stage -->
-  <StatsReport_LifeStage>Lebensabschnitt</StatsReport_LifeStage>
+  <StatsReport_LifeStage>Rika</StatsReport_LifeStage>
   <!-- EN: Material -->
-  <StatsReport_Material>Material</StatsReport_Material>
+  <StatsReport_Material>nyenzo</StatsReport_Material>
   <!-- EN: Character quality -->
-  <StatsReport_CharacterQuality>Charakterqualität</StatsReport_CharacterQuality>
+  <StatsReport_CharacterQuality>Ubora wa tabia</StatsReport_CharacterQuality>
   <!-- EN: Skills -->
-  <StatsReport_Skills>Fähigkeiten</StatsReport_Skills>
+  <StatsReport_Skills>Ujuzi</StatsReport_Skills>
   <!-- EN: Post-process - other stats -->
-  <StatsReport_OtherStats>Nachträgliche Anpassungen - andere Statistiken</StatsReport_OtherStats>
+  <StatsReport_OtherStats>Shughuli baada ya mchakato - takwimu zingine</StatsReport_OtherStats>
   <!-- EN: Health -->
-  <StatsReport_Health>Körper</StatsReport_Health>
+  <StatsReport_Health>Afya</StatsReport_Health>
   <!-- EN: {0} importance -->
-  <HealthFactorPercentImpact>Gewichtung {0}</HealthFactorPercentImpact>
+  <HealthFactorPercentImpact>Umuhimu wa {0}</HealthFactorPercentImpact>
   <!-- EN: {0} impact -->
-  <HealthOffsetScale>{0} Wirkung</HealthOffsetScale>
+  <HealthOffsetScale>Matokeo ya {0}</HealthOffsetScale>
   <!-- EN: {0} max -->
-  <HealthFactorMaxImpact>max {0}</HealthFactorMaxImpact>
+  <HealthFactorMaxImpact>kilele cha {0}</HealthFactorMaxImpact>
   <!-- EN: if below {0} -->
-  <HealthFactorAllowedDefect>wenn unter {0}</HealthFactorAllowedDefect>
+  <HealthFactorAllowedDefect>ikipungua zaidi ya {0}</HealthFactorAllowedDefect>
   <!-- EN: Post-process curve -->
-  <StatsReport_PostProcessed>Nachbearbeitungskurve</StatsReport_PostProcessed>
+  <StatsReport_PostProcessed>Kizingo cha shughuli baada ya mchakato</StatsReport_PostProcessed>
   <!-- EN: Final value -->
-  <StatsReport_FinalValue>Endgültiger Wert</StatsReport_FinalValue>
+  <StatsReport_FinalValue>Kiasi cha mwisho</StatsReport_FinalValue>
   <!-- EN: Materials and labor -->
-  <StatsReport_MarketValueFromStuffsAndWork>Materialien und Arbeitsaufwand</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_MarketValueFromStuffsAndWork>Nyenzo na kazi</StatsReport_MarketValueFromStuffsAndWork>
   <!-- EN: Quality multiplier -->
-  <StatsReport_QualityMultiplier>Qualitätsmultiplikator</StatsReport_QualityMultiplier>
+  <StatsReport_QualityMultiplier>Kitu cha kuzidisha ubora</StatsReport_QualityMultiplier>
   <!-- EN: Max gain -->
-  <StatsReport_MaxGain>Max Erhöhung</StatsReport_MaxGain>
+  <StatsReport_MaxGain>Kilele cha faida</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
-  <StatsReport_AgeMultiplier>Altersmultiplikator ({0} Jahre)</StatsReport_AgeMultiplier>
+  <StatsReport_AgeMultiplier>Ongezeo la umri {0}</StatsReport_AgeMultiplier>
   <!-- EN: Multiplier for health {0} -->
-  <StatsReport_HealthMultiplier>Gesundheitsmultiplikator ({0})</StatsReport_HealthMultiplier>
+  <StatsReport_HealthMultiplier>Ongezeo la afya {0}</StatsReport_HealthMultiplier>
   <!-- EN: Multiplier for mood {0} -->
-  <StatsReport_MoodMultiplier>Stimmungsmultiplikator ({0})</StatsReport_MoodMultiplier>
+  <StatsReport_MoodMultiplier>Ongezeo la furaha {0}</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
-  <StatsReport_LightMultiplier>Helligkeitsmultiplikator ({0})</StatsReport_LightMultiplier>
+  <StatsReport_LightMultiplier>Ongezeo la mwangaza {0}</StatsReport_LightMultiplier>
   <!-- EN: Multiplier for difficulty {0} -->
-  <StatsReport_DifficultyMultiplier>Schwierigkeitsmultiplikator ({0})</StatsReport_DifficultyMultiplier>
+  <StatsReport_DifficultyMultiplier>Ongezeo la ugumu {0}</StatsReport_DifficultyMultiplier>
   <!-- EN: In bed -->
-  <StatsReport_InBed>Im Bett</StatsReport_InBed>
+  <StatsReport_InBed>Kitandani</StatsReport_InBed>
   <!-- EN: Facilities -->
-  <StatsReport_Facilities>Ausstattungen</StatsReport_Facilities>
+  <StatsReport_Facilities>Vifaa</StatsReport_Facilities>
   <!-- EN: Multiplier for body size {0} -->
-  <StatsReport_BodySize>Körpergrößenmultiplikator ({0})</StatsReport_BodySize>
+  <StatsReport_BodySize>Ongezeko la ukubwa wa mwili {0}</StatsReport_BodySize>
   <!-- EN: Carefully slaughtered without wounds -->
-  <StatsReport_HasHediffExplanation>Sorgfältig geschlachtet ohne Wunden</StatsReport_HasHediffExplanation>
+  <StatsReport_HasHediffExplanation>Chinjwa kwa makini bila majeraha</StatsReport_HasHediffExplanation>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
-  <StatsReport_MeleeDPSExplanation>DPS = Nahkampfschaden x Nahkampftrefferchance / Abklingzeit</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDPSExplanation>DPS = Hasara ya vita vya mikono x Uwezekano wa kugonga / Sekunde za kupumzika</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
-  <StatsReport_MeleeDamage>Nahkampfschaden</StatsReport_MeleeDamage>
+  <StatsReport_MeleeDamage>Hasara ya vita vya mikono</StatsReport_MeleeDamage>
   <!-- EN: Cooldown -->
-  <StatsReport_Cooldown>Abklingzeit</StatsReport_Cooldown>
+  <StatsReport_Cooldown>Pumziko</StatsReport_Cooldown>
   <!-- EN: Melee hit chance -->
-  <StatsReport_MeleeHitChance>Nahkampftrefferchance</StatsReport_MeleeHitChance>
+  <StatsReport_MeleeHitChance>Uwezekano wa kugonga</StatsReport_MeleeHitChance>
   <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
   <!-- EN: Life expectancy -->
-  <StatsReport_LifeExpectancy>Lebenserwartung</StatsReport_LifeExpectancy>
+  <StatsReport_LifeExpectancy>Urefu wastani wa maisha</StatsReport_LifeExpectancy>
   <!-- EN: Multiplier for missing body parts -->
-  <StatsReport_MissingBodyParts>Fehlende-Körperteile-Multiplikator</StatsReport_MissingBodyParts>
+  <StatsReport_MissingBodyParts>Ongezeko la viungo vilivyopotea</StatsReport_MissingBodyParts>
   <!-- EN: Gear and inventory -->
-  <StatsReport_GearAndInventoryMass>Ausrüstung und Inventar</StatsReport_GearAndInventoryMass>
+  <StatsReport_GearAndInventoryMass>Mizigo na bidhaa</StatsReport_GearAndInventoryMass>
   <!-- EN: Multiplier for worn by corpse -->
-  <StatsReport_WornByCorpse>Von-Leiche-getragen-Multiplikator</StatsReport_WornByCorpse>
+  <StatsReport_WornByCorpse>Ongezeko la kuvaliwa na maiti</StatsReport_WornByCorpse>
   <!-- EN: average of all attacks -->
-  <AverageOfAllAttacks>Durchschnitt aller Angriffe</AverageOfAllAttacks>
+  <AverageOfAllAttacks>Wastani wa mashambulio yote</AverageOfAllAttacks>
   <!-- EN: Scenario -->
-  <StatsReport_ScenarioFactor>Szenario</StatsReport_ScenarioFactor>
+  <StatsReport_ScenarioFactor>Igizo</StatsReport_ScenarioFactor>
   <!-- EN: Ingredients -->
-  <StatsReport_IngredientsMass>Zutaten</StatsReport_IngredientsMass>
+  <StatsReport_IngredientsMass>Yaliyomo</StatsReport_IngredientsMass>
   <!-- EN: Permanently disabled. -->
-  <StatsReport_PermanentlyDisabled>Dauerhaft deaktiviert.</StatsReport_PermanentlyDisabled>
+  <StatsReport_PermanentlyDisabled>Mlemavu milele.</StatsReport_PermanentlyDisabled>
   <!-- EN: {0} -->
   <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
   <!-- EN: Added body parts -->
-  <StatsReport_AddedBodyPartsMass>Hinzugefügte Körperteile</StatsReport_AddedBodyPartsMass>
+  <StatsReport_AddedBodyPartsMass>Viungo vilivyoongezwa</StatsReport_AddedBodyPartsMass>
   <!-- EN: Material effect multiplier -->
-  <StatsReport_StuffEffectMultiplier>Materialeffektmultiplikator</StatsReport_StuffEffectMultiplier>
+  <StatsReport_StuffEffectMultiplier>Ongezeko la nyenzo</StatsReport_StuffEffectMultiplier>
   <!-- EN: Resting -->
-  <StatsReport_Resting>Ruhend</StatsReport_Resting>
+  <StatsReport_Resting>Anapumzika</StatsReport_Resting>
   <!-- EN: recreation type -->
-  <StatsReport_JoyKind>Art der Entspannung</StatsReport_JoyKind>
+  <StatsReport_JoyKind>aina ya burudani</StatsReport_JoyKind>
   <!-- EN: work to uninstall -->
-  <StatsReport_WorkToUninstall>Arbeit zum Deinstallieren</StatsReport_WorkToUninstall>
+  <StatsReport_WorkToUninstall>kazi ya kutoanisha</StatsReport_WorkToUninstall>
   <!-- EN: Multiplier for growth {0} -->
-  <StatsReport_PlantGrowth>Wachstumsmultiplikator ({0})</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth>Ongezeko la kukua ({0})</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
-  <StatsReport_PlantGrowth_Wild>gestaffelt da wild</StatsReport_PlantGrowth_Wild>
+  <StatsReport_PlantGrowth_Wild>tofauti kwa sababu ni ya porini</StatsReport_PlantGrowth_Wild>
   <!-- EN: Not flesh -->
-  <StatsReport_NotFlesh>Kein Fleisch</StatsReport_NotFlesh>
+  <StatsReport_NotFlesh>Sio nyama</StatsReport_NotFlesh>
   <!-- EN: Not fresh -->
-  <StatsReport_NotFresh>Nicht frisch</StatsReport_NotFresh>
+  <StatsReport_NotFresh>Iliyooza</StatsReport_NotFresh>
   <!-- EN: Wild man -->
-  <StatsReport_WildMan>Wilder Mensch</StatsReport_WildMan>
+  <StatsReport_WildMan>Hayawani</StatsReport_WildMan>
   <!-- EN: Attack -->
-  <StatsReport_NonToolAttack>Angriff</StatsReport_NonToolAttack>
+  <StatsReport_NonToolAttack>Shambulia</StatsReport_NonToolAttack>
   
   <!-- EN: Possible offsets -->
   <StatReport_PossibleOffsets>Mögliche Offsets</StatReport_PossibleOffsets>
