@@ -116,88 +116,88 @@
   <StatsReport_NonToolAttack>Shambulia</StatsReport_NonToolAttack>
   
   <!-- EN: Possible offsets -->
-  <StatReport_PossibleOffsets>Mögliche Offsets</StatReport_PossibleOffsets>
+  <StatReport_PossibleOffsets>Possible Offsets</StatReport_PossibleOffsets>
   <!-- EN: Room impressiveness -->
-  <StatsReport_RoomImpressiveness>Raumeindruck</StatsReport_RoomImpressiveness>
+  <StatsReport_RoomImpressiveness>Urembo wa chumba</StatsReport_RoomImpressiveness>
   <!-- EN: Lit -->
-  <StatsReport_Lit>Beleuchtet</StatsReport_Lit>
+  <StatsReport_Lit>Iko na mwangaza</StatsReport_Lit>
   <!-- EN: Contains {0} -->
-  <StatsReport_GraveFull>Enthält {0}</StatsReport_GraveFull>
+  <StatsReport_GraveFull>Iko na {0}</StatsReport_GraveFull>
   <!-- EN: Contains a human corpse -->
-  <StatsReport_GraveFullAbstract>Enthält eine menschliche Leiche</StatsReport_GraveFullAbstract>
+  <StatsReport_GraveFullAbstract>Iko na maiti ya binadamu</StatsReport_GraveFullAbstract>
   <!-- EN: Meditator is related to the corpse inside -->
-  <StatsReport_GraveCorpseRelatedAbstract>Meditierender ist mit der Leiche verwandt</StatsReport_GraveCorpseRelatedAbstract>
+  <StatsReport_GraveCorpseRelatedAbstract>Anayetafakari ni jamaa wa aliyezikwa</StatsReport_GraveCorpseRelatedAbstract>
   <!-- EN: From quality -->
-  <StatsReport_FromQuality>Von Qualität</StatsReport_FromQuality>
+  <StatsReport_FromQuality>Kutokana na ubora wa</StatsReport_FromQuality>
   <!-- EN: Nearby artificial structures -->
-  <StatsReport_NearbyArtificialStructures>künstliche Strukturen in der Nähe</StatsReport_NearbyArtificialStructures>
+  <StatsReport_NearbyArtificialStructures>Majengo yaliyo karibu</StatsReport_NearbyArtificialStructures>
   <!-- EN: Satisfies user's title requirements -->
-  <StatsReport_SatisfiesTitle>Erfüllt Titelanforderungen des Benutzers</StatsReport_SatisfiesTitle>
+  <StatsReport_SatisfiesTitle>Inaridhisha matakwa ya taji la mtumizi</StatsReport_SatisfiesTitle>
 
   <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
-  <Stat_RecreationType_Desc>Verschiedene Entspannungsmöglichkeiten befriedigen verschiedene Entspannungsarten. Kolonisten langweilen sich schnell, wenn sie immer wieder die gleiche Art von Entspannung ausüben, daher ist es wichtig, eine Vielzahl von Entspannungsmöglichkeiten mit unterschiedlichen Entspannungsarten zur Verfügung zu stellen.</Stat_RecreationType_Desc>
+  <Stat_RecreationType_Desc>Aina tofauti za burudani huridhishwa na vifaa tofauti vya burudani. Wakoloni watachoshwa na kufanya aina moja ya burudani mfululizo, hivyo ni muhimu kuwapea aina kadhaa za burudani.</Stat_RecreationType_Desc>
   <!-- EN: All recreation types -->
-  <Stat_JoyKind_AllTypes>Alle Entspannungsarten</Stat_JoyKind_AllTypes>
+  <Stat_JoyKind_AllTypes>Aina zote za burudani</Stat_JoyKind_AllTypes>
   <!-- EN: Mined item -->
-  <Stat_MineableThing_Name>Abgebauter Gegenstand</Stat_MineableThing_Name>
+  <Stat_MineableThing_Name>Kitu kilichochimbwa</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
-  <Stat_MineableThing_Desc>Der gewonnene Gegenstand beim Abbau dieses Gesteins.</Stat_MineableThing_Desc>
+  <Stat_MineableThing_Desc>Kitu kitakachopatikana kwa kuchimba hapa.</Stat_MineableThing_Desc>
   <!-- EN: Source species -->
-  <Stat_SourceSpecies_Name>Herkunft (Spezies)</Stat_SourceSpecies_Name>
+  <Stat_SourceSpecies_Name>Kiumbe asili</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
-  <Stat_SourceSpecies_Desc>Von welchen Spezies dieses Material entnommen wurde.</Stat_SourceSpecies_Desc>
+  <Stat_SourceSpecies_Desc>Kitu hiki kilitoka kwa kiumbe hiki.</Stat_SourceSpecies_Desc>
   <!-- EN: Stuff -->
-  <Stat_Stuff_Name>Ausgangsmaterial</Stat_Stuff_Name>
+  <Stat_Stuff_Name>Vitu</Stat_Stuff_Name>
   <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
-  <Stat_Stuff_Desc>Material, das als Grundlage für die Herstellung dieses Produkts verwendet wurde. Das Ausgangsmaterial beeinflusst viele andere Werte, darunter Waffenschaden, Rüstung, Isolierung, Trefferpunkte, Attraktivität, Marktwert und vieles mehr.</Stat_Stuff_Desc>
+  <Stat_Stuff_Desc>Kitu hiki kimetengenezwa na nyenzo hizi. Hii inaathiri takwimu nyingi, kama vile uharibifu wa silaha, ugumu wa mavazi au uwezo wa kukinga baridi, nguvu ya jengo au kitu, urembo, thamani na nyinginezo.</Stat_Stuff_Desc>
   <!-- EN: Weapon -->
-  <Stat_Weapon_Name>Bewaffnung</Stat_Weapon_Name>
+  <Stat_Weapon_Name>Silaha</Stat_Weapon_Name>
   <!-- EN: The weapon used by this turret. -->
-  <Stat_Weapon_Desc>Die von diesem Turm verwendete Bewaffnung.</Stat_Weapon_Desc>
+  <Stat_Weapon_Desc>Silaha itumikayo na bunduki hii.</Stat_Weapon_Desc>
   <!-- EN: How much damage an object can take before being destroyed. -->
-  <Stat_HitPoints_Desc>Wie viel Schaden ein Objekt einstecken kann, bevor es zerstört wird.</Stat_HitPoints_Desc>
+  <Stat_HitPoints_Desc>Kitu hiki kitavumilia uharibifu wa alama hizi kabla ya kubomoka.</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->
-  <Stat_Thing_WorkToUninstall_Desc>Der Arbeitsaufwand zum Deinstallieren dieses Objekts.</Stat_Thing_WorkToUninstall_Desc>
+  <Stat_Thing_WorkToUninstall_Desc>Kazi inayotakikana kutoanisha kitu hiki.</Stat_Thing_WorkToUninstall_Desc>
   <!-- EN: Which facilities can be used to produce this. -->
-  <Stat_Thing_CreatedAt_Desc>An welchen Produktionsstätten dieses Objekt hergestellt werden kann.</Stat_Thing_CreatedAt_Desc>
+  <Stat_Thing_CreatedAt_Desc>Vifaa vigani vinaweza kutumika kutengeneza hiki.</Stat_Thing_CreatedAt_Desc>
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
-  <Stat_Thing_Damage_Desc>Die Höhe des Schadens, den diese Waffe verursacht.\n\nKann durch die Rüstung des Ziels abgelenkt oder gemildert werden.</Stat_Thing_Damage_Desc>
+  <Stat_Thing_Damage_Desc>Uharibifu wa silaha hii.\n\nAlama hizi zinaweza punguka kwa ajili ya ngao ya aliyelengwa.</Stat_Thing_Damage_Desc>
   <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
-  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>Ein Multiplikator auf die Erfahrungsmenge, die ein Arzt erhält, wenn er mit diesem Objekt einen Patienten behandelt.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>Ongezeko la ujuzi madaktari wanapata wakitumia hii kutibu mngonjwa.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
   <!-- EN: The attributes of this plant. -->
-  <Stat_Thing_Plant_Attributes_Desc>Die Attribute dieser Pflanze.</Stat_Thing_Plant_Attributes_Desc>
+  <Stat_Thing_Plant_Attributes_Desc>Maelezo ya mmea huu.</Stat_Thing_Plant_Attributes_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
-  <Stat_Thing_Apparel_Covers_Desc>Welche Körperteile dieses Objekt bedeckt.\n\nEs werden nur Körperteile geschützt, die von einer Rüstung bedeckt sind.</Stat_Thing_Apparel_Covers_Desc>
+  <Stat_Thing_Apparel_Covers_Desc>Viungo vinavyofunikwa na kitu hiki.\n\nNgao hazilindi viungo ambazo hazifunikwi nazo.</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
-  <Stat_Thing_Apparel_Layer_Desc>Für welche Kleidungsschichten dieses Objekt vorgesehen ist.\n\nBei jedem Körperteil kann pro Schicht nur ein Kleidungsstück getragen werden.</Stat_Thing_Apparel_Layer_Desc>
+  <Stat_Thing_Apparel_Layer_Desc>Aina ya mavazi.\n\nVazi moja tu linaweza valiwa kwa sehemu fulani ya mwili.</Stat_Thing_Apparel_Layer_Desc>
   <!-- EN: The minimum soil fertility that this plant requires to grow. -->
-  <Stat_Thing_Plant_FertilityRequirement_Desc>Die minimale Bodenfruchtbarkeit, die diese Pflanze zum Wachstum benötigt.</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <Stat_Thing_Plant_FertilityRequirement_Desc>Mmea huu unahitaji rutuba ya kiwango hiki au zaidi.</Stat_Thing_Plant_FertilityRequirement_Desc>
   <!-- EN: How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil. -->
-  <Stat_Thing_Plant_FertilitySensitivity_Desc>Wie empfindlich diese Pflanze auf die Bodenfruchtbarkeit reagiert.\n\nEine geringe Empfindlichkeit bedeutet, dass die Pflanze auf gutem oder schlechtem Boden etwa gleich schnell wächst. Hohe Empfindlichkeit bedeutet, dass die Pflanze auf schlechtem Boden langsam, aber auf gutem Boden schneller wächst.</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>Mmea huu unaathirika na kiwango cha rutuba kiasi hiki.\n\nMmea ulio na kiasi cha chini cha kuathirika unaweza mea kwa kasi sawa kwa mchanga wowote. Mmea ulio na kiasi cha juu cha kuathirika kitamea polepole kwa mchanga duni lakini kwa kasi kwa mchanga bora.</Stat_Thing_Plant_FertilitySensitivity_Desc>
   <!-- EN: The amount of light this plant requires to grow. -->
-  <Stat_Thing_Plant_LightRequirement_Desc>Die Menge an Licht, die diese Pflanze zum Wachstum benötigt.</Stat_Thing_Plant_LightRequirement_Desc>
+  <Stat_Thing_Plant_LightRequirement_Desc>Mmea huu unahitaji mwangaza wa kiwango hiki.</Stat_Thing_Plant_LightRequirement_Desc>
   <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
-  <Stat_Thing_Plant_LifeSpan_Desc>Die Lebensdauer der Pflanze.\n\nPflanzen werden sterben, wenn sie ein bestimmtes Alter erreicht haben, egal ob sie geerntet wurden oder nicht.</Stat_Thing_Plant_LifeSpan_Desc>
+  <Stat_Thing_Plant_LifeSpan_Desc>Mmea huu utaishi kwa miaka hii kwa wastani.\n\nMimea hukufa ikifika umri fulani, hata isipovunwa.</Stat_Thing_Plant_LifeSpan_Desc>
   <!-- EN: The amount of product this plant will yield when harvested. -->
-  <Stat_Thing_Plant_HarvestYield_Desc>Die Menge an Ressourcen, die diese Planze liefert, wenn sie geernet wird.</Stat_Thing_Plant_HarvestYield_Desc>
+  <Stat_Thing_Plant_HarvestYield_Desc>Kipimo cha rasilmali kitakachopatikana kwa kuvuna mmea huu.</Stat_Thing_Plant_HarvestYield_Desc>
   <!-- EN: The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time. -->
-  <Stat_Thing_Plant_MinGrowthTemperature_Desc>Die minimale Temperatur, die diese Pflanze überleben kann.\n\nTemperaturen unter diesem Wert werden im Laufe der Zeit Schäden verursachen.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>Kiwango cha chini kabisa cha baridi ambacho mmea huu utastahimili.\n\nBaridi zaidi ya hapa itaharibu mmea huu kwa wakati fulani.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
   <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
-  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>Die maximale Temperatur, die diese Pflanze überleben kann.\n\nTemperaturen über diesem Wert werden im Laufe der Zeit Schäden verursachen.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>Kiwango cha juu kabisa cha joto ambacho mmea huu utastahimili.\n\Joto zaidi ya hapa itaharibu mmea huu kwa wakati fulani.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
   <!-- EN: The minimum skill needed for a farmer to to sow this plant. -->
-  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>Die Mindeststufe, die ein Landwirt benötigt, um diese Pflanze anbauen zu können.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>Kiwango cha ujuzi kinachotakikana kupanda mmea huu.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
   <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
-  <Stat_Race_Diet_Desc>Welche Arten von Nahrung diese Kreatur zu sich nehmen kann.\n\nKann essen: {0}</Stat_Race_Diet_Desc>
+  <Stat_Race_Diet_Desc>Aina za vyakula mnyama huyu anaweza kuyakula.\n\nAnaweza kula: {0}</Stat_Race_Diet_Desc>
   <!-- EN: The type of leather this creature will yield when butchered. -->
-  <Stat_Race_LeatherType_Desc>Die Art des Leders, die diese Kreatur nach ihrer Schlachtung liefert.</Stat_Race_LeatherType_Desc>
+  <Stat_Race_LeatherType_Desc>Aina ya ngozi inayotokana na kuchinja mnyama huyu.</Stat_Race_LeatherType_Desc>
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
-  <Stat_Race_Animal_TameFailedRevengeChance_Desc>Die Chance, dass diese Kreatur angreift, wenn ein Zähmer versucht, sie zu zähmen, und dabei scheitert.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>Uwezekana wa mnyama huyu kushambulia mtu akijaribu kumfuga na ashindwe.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
   <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
-  <Stat_Race_Trainability_Desc>Inwieweit diese Kreatur geistig geeignet ist, trainiert zu werden. Eine Kombination aus Intelligenz und Beobachtungsgabe. Dieser Wert bestimmt, für welche Aufgaben diese Kreatur trainiert werden kann.</Stat_Race_Trainability_Desc>
+  <Stat_Race_Trainability_Desc>Uwezekano wa kumfuga mnyama huyu kwa jumla. Hii ni mchanganyiko wa akili yake na umaakini wake.</Stat_Race_Trainability_Desc>
   <!-- EN: The average life expectancy of this creature. -->
-  <Stat_Race_LifeExpectancy_Desc>Die durchschnittliche Lebenserwartung dieser Kreatur.</Stat_Race_LifeExpectancy_Desc>
+  <Stat_Race_LifeExpectancy_Desc>Miaka ambayo mnyama huyu huishi kwa wastani.</Stat_Race_LifeExpectancy_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
-  <Stat_Thing_Ingestible_Joy_Desc>Der Entspannungsgewinn bei Einnahme dieses Objekts. Je höher dieser Wert, desto mehr wird der Entspannungsbedarf gedeckt.</Stat_Thing_Ingestible_Joy_Desc>
+  <Stat_Thing_Ingestible_Joy_Desc>Burudani inayotokana na kukitumia kileo hiki. Alama nyingi inamaanisha kitaridhisha burudani zaidi.</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
   <Stat_Race_BodySize_Desc>Die Körpergröße dieser Kreatur im Vergleich zu einem durchschnittlichen erwachsenen Menschen.</Stat_Race_BodySize_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
@@ -321,6 +321,6 @@
   <!-- EN: How quickly an addict's need for the chemical will fall. -->
   <Stat_Thing_Drug_AddictionNeedFallRate_Desc>Wie schnell die Chemikaliensucht eines Süchtigen zurückgeht.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
   <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
-  <Stat_Thing_Drug_AddictionCost_Desc>Der Marktwert von Drogen, die pro Tag konsumiert werden müssen, um eine Sucht dieser Droge zu finanzieren, ohne in den Entzug zu gehen.\n\nDieser Wert errechnet sich aus der Suchtbefriedung pro Dosis, der Suchtrückgangsrate und dem Marktwert dieser Droge.\n\nBeachte, dass die Chemikalie auch über andere Wege bezogen werden kann - vielleicht sogar kostengünstiger.</Stat_Thing_Drug_AddictionCost_Desc>
+  <Stat_Thing_Drug_AddictionCost_Desc>Thamani ya mihadarati ambayo inahitajika kila siku kukimu uraibu bila madhara ya ukosefu.\n\nKiasi hiki kinatathminiwa kutokana na mahitaji ya mraibu kwa kila matumizi, punguko la mahitaji na thamani ya mihadarati hii sokoni.\n\nInawezekana kuna njia nyingine ya kupata kemikali hii kwa gharama tofauti.</Stat_Thing_Drug_AddictionCost_Desc>
 
 </LanguageData>
